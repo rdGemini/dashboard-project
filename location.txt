@@ -1,0 +1,4 @@
+location:
+webKrite\dashboard\index.html
+
+no need of other setup, just directly open file from index file.
